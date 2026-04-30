@@ -17,7 +17,7 @@ Promover a inclusão digital por meio da coleta e análise de dados e desenvolvi
 4. Desenvolvimento de material educativo
 
 ## Resultados
-Os dados coletados estão disponíveis no arquivo formulario.csv.
+Os dados coletados estão disponíveis no arquivo formulario.csv e no GRÁFICOS - RESPOSTAS.pdf.
 
 ## Material desenvolvido
 O guia de informática básica está disponível no arquivo guia.pdf.
